@@ -1,0 +1,12 @@
+INSTALL
+MANIFEST
+Makefile.PL
+README
+Visterm.pm
+Visterm/StatusBar.pm
+examples/atest.pl
+examples/logmon.pl
+examples/no_status_title.pl
+examples/simple_test.pl
+examples/test_multiple_win.pl
+examples/test_scrollback.pl
